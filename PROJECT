@@ -1,0 +1,6 @@
+domain: domovoy.org.ua
+layout:
+- go.kubebuilder.io/v3
+projectName: rds-db-operator
+repo: github.com/sgavrylenko/rds-db-operator
+version: "3"
